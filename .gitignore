@@ -1,1 +1,58 @@
+# -----------------------------
+# Python cache
+# -----------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
 
+# -----------------------------
+# Virtual environments
+# -----------------------------
+.venv/
+venv/
+ENV/
+env/
+
+# -----------------------------
+# IDE configs
+# -----------------------------
+.vscode/
+.idea/
+
+# -----------------------------
+# OS files
+# -----------------------------
+.DS_Store
+Thumbs.db
+
+# -----------------------------
+# Jupyter
+# -----------------------------
+.ipynb_checkpoints/
+
+# -----------------------------
+# Outputs / logs
+# -----------------------------
+*.log
+outputs/
+logs/
+
+# -----------------------------
+# Data files (optional)
+# Uncomment if you DO NOT want to upload datasets
+# -----------------------------
+# *.csv
+# *.txt
+
+# -----------------------------
+# Large datasets (recommended ignore)
+# Task 1 large txt files
+# -----------------------------
+Task_1_Movie_Genre_Classification/data/train_data.txt
+Task_1_Movie_Genre_Classification/data/test_data.txt
+Task_1_Movie_Genre_Classification/data/test_data_solution.txt
+
+# Task 2 large csv files
+Task_2_Credit_Card_Fraud_Detection/data/fraudTrain.csv
+Task_2_Credit_Card_Fraud_Detection/data/fraudTest.csv
