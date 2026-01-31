@@ -1,1 +1,9 @@
 
+```txt
+Dataset: Movie Genre Classification Dataset (Kaggle)
+Link: https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb
+Files used:
+- train_data.txt
+- test_data.txt
+- test_data_solution.txt
+- description.txt
