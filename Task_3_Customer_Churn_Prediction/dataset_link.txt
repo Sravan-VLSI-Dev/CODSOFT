@@ -1,1 +1,7 @@
-
+```txt
+Dataset: Bank Customer Churn Modelling Dataset (Kaggle)
+Link: https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling
+File used:
+- Churn_Modelling.csv
+Target column:
+- Exited
